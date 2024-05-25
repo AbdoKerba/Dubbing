@@ -1,4 +1,6 @@
+moviepy
 pytube
+git+https://github.com/openai/whisper.git
 ffmpeg
 deep_translator
 subtoaudio
