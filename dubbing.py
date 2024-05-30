@@ -24,7 +24,7 @@ parser = argparse.ArgumentParser(description='Dubbing Parameters')
 
 # Add the new argument
 # For example, let's add a parameter called --name
-parser.add_argument('--link', type=str, help='Link of Youtube viedo', required=True)
+parser.add_argument('--link', type=str, help='Link of Youtube video', required=True)
 parser.add_argument('--tempo', type=int, default=3, help='Tempo value')
 
 # Parse the arguments
